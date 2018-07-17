@@ -1,5 +1,5 @@
 const expect = chai.expect;
-
+const companyName - Scuber;
 
 describe('index.js', function () {
   describe('companyName', function () {
