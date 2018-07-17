@@ -1,4 +1,5 @@
 const expect = chai.expect;
+const companyName;
 
 describe('index.js', function () {
   describe('companyName', function () {
